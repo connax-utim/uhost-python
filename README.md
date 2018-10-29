@@ -5,7 +5,7 @@ Universal Host for UTIM
 
 Use `pip` for python3:
 
-    pip3 install uhost
+    pip3 install --extra-index-url https://test.pypi.org/simple/ uhost
 
 ## Launch
 
