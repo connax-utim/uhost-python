@@ -1,4 +1,4 @@
-[![License badge](https://img.shields.io/badge/license-Apache2-orange.svg)](http://www.apache.org/licenses/LICENSE-2.0)
+[![License badge](https://img.shields.io/badge/license-Apache2-orange.svg)](http://www.apache.org/licenses/LICENSE-2.0)  [![Documentation Status](https://readthedocs.org/projects/utim/badge/?version=latest)](https://utim.readthedocs.io/en/latest/?badge=latest)
 
 # uhost-python
 Universal Host for UTIM
